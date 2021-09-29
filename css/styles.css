@@ -11420,3 +11420,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+#github :hover{
+  color: #0d6efd;
+  cursor: pointer;
+}
