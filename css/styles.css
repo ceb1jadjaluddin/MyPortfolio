@@ -11407,7 +11407,7 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
-resume-section-content :hover{
+.resume-section-content :hover{
   color: #0d6efd;
   cursor: pointer;
 }
