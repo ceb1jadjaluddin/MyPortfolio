@@ -11419,3 +11419,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+ul.b {
+  list-style-type: square;
+}
